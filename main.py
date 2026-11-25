@@ -8,8 +8,8 @@ on every run.
 import os
 
 LINE = (
-    "The client already said yes in the email we were meeting "
-    "to read out loud to each other."
+    "I joined from the parking lot, approved the budget from my car, "
+    "and the meeting still needed forty more minutes to agree I had approved it."
 )
 
 
