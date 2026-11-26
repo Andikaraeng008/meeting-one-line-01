@@ -8,8 +8,8 @@ on every run.
 import os
 
 LINE = (
-    "I joined from the parking lot, approved the budget from my car, "
-    "and the meeting still needed forty more minutes to agree I had approved it."
+    "We spent fifty minutes debating the meeting's title, "
+    "then booked a follow-up to decide what the meeting was about."
 )
 
 
