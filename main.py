@@ -3,14 +3,12 @@
 Writes the single sentence that could have replaced an entire
 pointless meeting to /output/entry.txt. Deterministic: same line
 on every run.
+Candidate Meeting 3 (farewell party, 99 characters) — chosen by Ahmad.
 """
 
 import os
 
-LINE = (
-    "We spent fifty minutes debating the meeting's title, "
-    "then booked a follow-up to decide what the meeting was about."
-)
+LINE = "We held a meeting about my farewell party, then spent an hour arguing over who would miss me least."
 
 
 def main() -> None:
